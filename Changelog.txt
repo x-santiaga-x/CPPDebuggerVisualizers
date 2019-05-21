@@ -3,6 +3,14 @@ Legend:
 * Changed
 ! Fixed
 
+1.0.22 - 21.05.2019
+=========================
+! Fixed boost::string for Boost 1.69
+
+1.0.21 - 17.04.2019
+=========================
++ Support Visual Studio 2019
+
 1.0.20 - 20.02.2018
 =========================
 + Support boost 1.66
