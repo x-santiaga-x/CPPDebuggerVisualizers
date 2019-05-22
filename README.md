@@ -1,3 +1,8 @@
+# Quick Notes
+If you are here for the extension for VS2019, the .vsix  download link is here:
+
+[Download for VS2019](https://github.com/x-santiaga-x/CPPDebuggerVisualizers/releases/download/v1.0.22/CPPDebuggerVisualizers.VS2019.vsix)
+
 C++ Debugger Visualizers [![Donate][1]][2]
 ========================
 
